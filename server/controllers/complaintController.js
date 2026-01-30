@@ -1,4 +1,4 @@
-import Complaint from "../models/complaint.js";
+import Complaint from "../models/Complaint.js";
 
 export const createComplaint = async (req, res) => {
   try {
